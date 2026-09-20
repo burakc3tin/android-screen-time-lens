@@ -6,4 +6,6 @@ Screen Time Lens is a native Android application built with **Kotlin** and **Jet
 
 **Tech stack:** Kotlin · Jetpack Compose · Material 3 · MVVM · ViewModel + StateFlow · Coroutines · UsageStatsManager · Canvas custom drawing · Gradle (Kotlin DSL)
 
-![Screenshot](https://i.hizliresim.com/gtn6zqdi.jpg)
+<p align="center">
+  <img src="https://i.hizliresim.com/gtn6zqdi.jpg" alt="Screenshot" width="500">
+</p>
