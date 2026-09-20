@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Screen Time Lens</string>
+    <string name="home_title">Screen Time</string>
+    <string name="home_refresh">Refresh</string>
+    <string name="home_today">Today</string>
+    <string name="home_total">Total</string>
+    <string name="home_most_used">Most Used</string>
+    <string name="home_empty">No app usage recorded today yet.</string>
+    <string name="permission_title">Usage Access Required</string>
+    <string name="permission_message">This app needs Android\'s Usage Access permission to show your screen time.\n\nSettings → Special App Access → Usage Access</string>
+    <string name="permission_open_settings">Open Settings</string>
+    <string name="permission_retry">Try Again</string>
+</resources>
