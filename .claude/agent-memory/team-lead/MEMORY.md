@@ -1,2 +1,0 @@
-- [Project stack](project_stack.md) — this repo is native Kotlin/Compose, not Flutter; verify with Gradle
-- [No code comments](feedback_no_comments.md) — user forbids all comments/KDoc in code here
